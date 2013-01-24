@@ -6,10 +6,11 @@
 
 ## Homepage:
 
-[link](http://njust.aliapp.com/pingjiao/)
+[http://njust.aliapp.com/pingjiao/](http://njust.aliapp.com/pingjiao/)
 
-## Download:
+## [Download](https://chrome.google.com/webstore/detail/%E5%8D%97%E7%90%86%E5%B7%A5%E8%AF%84%E6%95%99%E5%8A%A9%E6%89%8B/mpgpckncmbhlldfciofgecaaaeeefjbe)
 
-[link](https://github.com/downloads/lmmsoft/njust-teacher-evaluation-assistant-chrome-plugin/pingjiao.crx)
-
+## To Do:
+1. include all the docs to the project
+1. include homepage to the project
 
